@@ -39,7 +39,7 @@ How to use
 8. To load the bitmap, click on "L" (like load) and then enter the bitmap file name (ex. ZAMEK.TXT) and press ENTER. You will see an info "file loaded successfully" then press ESC.
 9. To save your own bitmap, click on "S" (like save) and then enter a new bitmap file name (ex. MY_BITMAP.TXT) and press ENTER. You will see an info "file saved successfully" then press ESC.
 
-assembly code screenshots
+Assembly code demo
 -------------------------
 ![code](https://github.com/user-attachments/assets/7628a801-f3f8-4e6c-a063-5574df47e0fc)
 
