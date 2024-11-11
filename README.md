@@ -33,7 +33,7 @@ How to use
 1. Drag and drop the TBF13H.EXE to DOSBox (https://www.dosbox.com/) to start the application on emulated MS-DOS environment
 2. Increase the Cpu speed in DOSBox above 150000 cycles (Ctrl + F12)
 3. Click LMB to the DOSBox window with application intro screen
-4. Click any button on your keyboard
+4. Press any button on your keyboard
 5. Click on the "WIDTH" and enter a width of the bitmap (1 - 320)
 6. Click on the "HEIGHT" and enter a height of the bitmap (1 - 200)
 7. NOW YOU CAN DRAW!   (use LMB and RMB and tools of the screen intuitively)
