@@ -29,7 +29,7 @@ What you have in the repository
 
 How to use
 ----------
-1. Drag and drop the TBF13H.EXE to DOSBox
+1. Drag and drop the TBF13H.EXE to DOSBox (https://www.dosbox.com/) to start the application on emulated MS-DOS environment
 2. Increase the Cpu speed in DOSBox above 150000 cycles (Ctrl + F12)
 3. Click LMB to the DOSBox window with application intro screen
 4. Click any button on your keyboard
